@@ -1,0 +1,25 @@
+{
+  "name": "alchemy_isle",
+  "version": "0.0.0",
+  "description": "A web game where you can make funny potions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Logobot3000/alchemy_isle.git"
+  },
+  "keywords": [
+    "game",
+    "webgame",
+    "alchemy",
+    "alchemyisle"
+  ],
+  "author": "pl4netary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Logobot3000/alchemy_isle/issues"
+  },
+  "homepage": "https://github.com/Logobot3000/alchemy_isle#readme"
+}
